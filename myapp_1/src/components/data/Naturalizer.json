@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "image": "https://m.media-amazon.com/images/I/716bGzKqK9L._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Carla",
+        "price": "$119.95",
+        "review": "(5)"
+    },
+    {
+        "id": "2",
+        "image": "https://m.media-amazon.com/images/I/71Ta06YjPxL._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Banks",
+        "price": "$99.95",
+        "review": "(549)"
+    },
+    {
+        "id": "3",
+        "image": "https://m.media-amazon.com/images/I/71VJfabHvPL._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Darry",
+        "price": "$119.95",
+        "review": "(340)"
+    },
+    {
+        "id": "4",
+        "image": "https://m.media-amazon.com/images/I/71zuX+64l9L._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Baylor",
+        "price": "$69.99",
+        "review": "(105)"
+    },
+    {
+        "id": "5",
+        "image": "https://m.media-amazon.com/images/I/71Fxpp9dFzL._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Joy",
+        "price": "$119.95",
+        "review": "(355)"
+    },
+    {
+        "id": "6",
+        "image": "https://m.media-amazon.com/images/I/51YCwWcEr7L._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Vera",
+        "price": "$109.95",
+        "review": "(553)"
+    },
+    {
+        "id": "7",
+        "image": "https://m.media-amazon.com/images/I/71PBledpjHL._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Vaneesa",
+        "price": "$99.95",
+        "review": "(366)"
+    },
+    {
+        "id": "8",
+        "image": "https://m.media-amazon.com/images/I/61FZZOkFH4L._AC_SR768,1024_.jpg",
+        "title": "Naturalizer",
+        "description": "Morrison",
+        "price": "$89.95",
+        "review": "(733)"
+    }
+]

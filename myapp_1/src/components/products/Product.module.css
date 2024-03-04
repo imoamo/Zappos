@@ -1,0 +1,49 @@
+.parent {
+    margin-top: 60px;
+}
+
+.heading {
+    font-size: 30px;
+    margin-left: 25px;
+}
+
+.Carousel {
+    width: 98%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.Carousel_child {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgba(169, 169, 169, 0.5);
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+
+.Carousel_img {
+    width: 190%;
+    margin-bottom: 10px;
+}
+
+.Carousel_Text_1 {
+    font-size: 20px;
+    padding-left: 5px;
+    font-weight: 600;
+}
+
+.Carousel_Text_2 {
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.Carousel_Text_3 {
+    font-size: 18px;
+    padding-left: 5px;
+    font-weight: 500;
+}
+
+.Carousel_rating {
+    font-size: 16px;
+    padding-left: 5px;
+}

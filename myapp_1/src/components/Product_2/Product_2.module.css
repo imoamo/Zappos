@@ -1,0 +1,84 @@
+body {
+    overflow-x: hidden;
+}
+
+.parent {
+    display: flex;
+    width: 96%;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.Child_1 {
+    width: 33%;
+    text-align: center;
+}
+
+.h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    color: blue;
+
+}
+
+.Child_2 {
+    width: 65%;
+    margin-left: 25px;
+}
+
+.product_card {
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgba(169, 169, 169, 0.5);
+    border-radius: 10px;
+}
+
+.Carousel_img {
+    width: 200%;
+}
+
+.Carousel_Text_1 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.Carousel_Text_2 {
+    font-size: 15px;
+}
+
+.Carousel_Text_3 {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.Carousel_rating {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.parent_2 {
+    width: 96%;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.parent_2_child{
+    text-align: center;
+}
+
+.parent_2_Text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.parent_2_child a{
+    text-decoration: underline;
+    font-size: 15px;
+}

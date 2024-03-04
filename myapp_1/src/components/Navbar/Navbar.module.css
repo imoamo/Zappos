@@ -1,0 +1,85 @@
+.info {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.info span {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.icon_1 {
+    height: 20px;
+    cursor: pointer;
+}
+
+.icon_2 {
+    margin-top: -3px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.text_1 {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
+
+
+.text_1 a{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: dashed;
+}
+
+
+.text_2 {
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.text_1 a:hover {
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+}
+
+.text_2:hover {
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+}
+
+.iconBox{
+    width: 10%;
+    justify-content: space-evenly;
+}
+
+
+
+.inp_1 input::placeholder{
+    padding-left: 10px;
+}
+
+.inp_1 input{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.inp_1 button{
+    font-size: 14px;
+    border: none;
+    margin-top: 10px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.inp_1 button:hover{
+background-color: rgb(237,242,247);
+color: black;
+}
