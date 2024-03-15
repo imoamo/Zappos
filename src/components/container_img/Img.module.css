@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.parent {
+    margin-top: 2.5rem;
+}
+
+.LinkBox {
+    padding: 3rem;
+}
+
+.LinkBox a {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.LinkBox_1 {
+    font-size: 4rem;
+    margin-bottom: .5rem;
+}
+
+.LinkBox_2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.LinkBox_3 {
+    font-size: 1.7rem;
+}
+
+.LinkBox_3:hover {
+    color: blue;
+}

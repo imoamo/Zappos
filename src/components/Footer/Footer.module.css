@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+
+.container_1 {
+    margin-top: 7.5rem;
+    background-color: rgb(33, 14, 244);
+    color: white;
+    padding: 10px 30px 10px 40px;
+    padding-bottom: 1.5rem;
+}
+
+.container_1 input {
+    color: #fff;
+    font-size: 1.3rem;
+    border: none;
+    border-bottom: 1px solid #fff;
+}
+
+.container_1 input::placeholder {
+    color: white;
+    font-size: 1.3rem;
+}
+
+.container_1 input:focus {
+    border-color: #fff;
+}
+
+.container_1 button {
+    border-radius: 2rem;
+    background-color: rgb(33, 14, 244);
+    border: 1px solid #fff;
+    color: white;
+    margin-left: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.container_1 button:hover {
+    background-color: rgb(33, 14, 244);
+    border: 1px solid black;
+    color: black;
+
+}
+
+.banner_icon {
+    margin-right: 1rem;
+    font-size: 1.8rem;
+}
+
+.container_2 {
+    background-color: rgb(9, 7, 8);
+    color: #fff;
+    padding-top: 1.5rem;
+    padding-bottom: 3.5rem;
+    border-bottom: 1px solid rgb(245, 245, 245);
+}
+
+.container_2_child_1 {
+    width: 95%;
+    margin: auto;
+}
+
+.container_2_child_1 {
+    background-color: rgb(9, 7, 8);
+    color: #fff;
+    width: 100%;
+    padding: 2.5rem;
+}
+
+.box_1 a {
+    font-size: 1.7rem;
+    margin-bottom: .5rem;
+}
+
+.box_2 a {
+    font-size: 1.7rem;
+    margin-bottom: .5rem;
+}
+
+.box_3 a {
+    font-size: 1.7rem;
+    margin-bottom: .5rem;
+}
+
+.box_4 a {
+    font-size: 1.7rem;
+    margin-bottom: .5rem;
+}
+
+.box_4 button {
+    font-size: 1.4rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.msg {
+    font-size: 2rem;
+}

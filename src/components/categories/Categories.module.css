@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.parent {
+    padding: 1rem;
+    width: 95%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.heading {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    margin-bottom: 1.5rem;
+}
+
+.container a {
+    text-decoration: underline;
+    font-size: 1.4rem;
+}
+
+.container_2 {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.Text_1 {
+    margin-top: 1.5rem;
+    font-size: 2.5rem;
+}
+
+.Text_2 {
+    font-size: 1.9rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.container_2 a {
+    text-decoration: underline;
+}
+
+.parent_2 {
+    margin-top: 9rem;
+}
+
+.banner {
+    width: 100%;
+}
+
+.grid_2 {
+    width: 98%;
+    margin: auto;
+    margin-top: 7.3rem;
+}
+
+.grid_child div {
+    padding: 15px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 10px rgba(169, 169, 169, 0.5);
+}
+
+.grid_heading {
+    margin-top: .5rem;
+    font-size: 3rem;
+}
+
+.heading_1 {
+    font-weight: 600;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+.heading_2 {
+    font-weight: 400;
+    margin-top: .5rem;
+    font-size: 1.8rem;
+}
+
+.heading_3 {
+    font-weight: 600;
+    margin-top: .5rem;
+    font-size: 1.4rem;
+}
+
+.container_3 {
+    margin-top: 6.5rem;
+}
+
+
+.flex_1 {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.flex_2 {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.flex_2 {
+    margin-top: 7rem;
+}
+
+
+.flex_h1 {
+    font-size: 3rem;
+}
+
+.flex_h2 {
+    font-size: 2rem;
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+}
+
+.flex_2_h1 {
+    font-size: 4rem;
+}
+
+.flex_2_h2 {
+    font-size: 3rem;
+}
+
+.flex_2_h3 {
+    font-size: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.flex_2_child a {
+    text-decoration: underline;
+}
+
+.flex_1_child a {
+    text-decoration: underline;
+}

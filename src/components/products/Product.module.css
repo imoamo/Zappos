@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+
+.parent {
+    margin-top: 6rem;
+}
+
+.heading {
+    font-size: 3rem;
+    margin-left: 2.5rem;
+}
+
+.Carousel {
+    width: 98%;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.Carousel_child {
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 10px rgba(169, 169, 169, 0.5);
+    margin-bottom: 4rem;
+    border-radius: 1rem;
+}
+
+.Carousel_img {
+    width: 190%;
+    margin-bottom: 1rem;
+}
+
+.Carousel_Text_1 {
+    font-size: 2rem;
+    padding-left: .5rem;
+    font-weight: 600;
+}
+
+.Carousel_Text_2 {
+    font-size: 1.6rem;
+    padding-left: .5rem;
+}
+
+.Carousel_Text_3 {
+    font-size: 1.8rem;
+    padding-left: .5rem;
+    font-weight: 500;
+}
+
+.Carousel_rating {
+    font-size: 1.6rem;
+    padding-left: .5rem;
+}

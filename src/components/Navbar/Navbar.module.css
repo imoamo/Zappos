@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+
+.info {
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.info span {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.icon_1 {
+    height: 2rem;
+    cursor: pointer;
+}
+
+.icon_2 {
+    margin-top: -.3rem;
+    height: 3.5rem;
+    cursor: pointer;
+}
+
+.text_1 {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
+
+
+.text_1 a {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+
+
+.text_2 {
+    font-weight: 600;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.text_1 a:hover {
+    background-color: rgb(245, 245, 245);
+    border-radius: 2rem;
+}
+
+
+
+.text_2:hover {
+    background-color: rgb(245, 245, 245);
+    border-radius: 2rem;
+}
+
+.iconBox {
+    width: 10%;
+    justify-content: space-evenly;
+}
+
+
+.inp_1 input::placeholder {
+    padding-left: 1rem;
+}
+
+.inp_1 input {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.inp_1 button {
+    font-size: 14px;
+    border: none;
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.inp_1 button:hover {
+    background-color: rgb(237, 242, 247);
+    color: black;
+}
+
+
+.iconBox_2 {
+    width: 10%;
+}
+
